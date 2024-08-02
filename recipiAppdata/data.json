@@ -132,4 +132,195 @@
         "description": "Simmer shrimp with herbs and spices in a flavorful broth."
     },
     {
-        "id":
+        "id": 9,
+        "title": "Peking Duck",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Peking_Duck.jpg/800px-Peking_Duck.jpg",
+        "ingredients": [
+            { "NAME": "Duck", "AMOUNT": "1 whole" },
+            { "NAME": "Hoisin sauce", "AMOUNT": "1/2 cup" },
+            { "NAME": "Chinese pancakes", "AMOUNT": "10" },
+            { "NAME": "Cucumber", "AMOUNT": "1, sliced" },
+            { "NAME": "Spring onions", "AMOUNT": "4, sliced" },
+            { "NAME": "Honey", "AMOUNT": "1/4 cup" },
+            { "NAME": "Soy sauce", "AMOUNT": "2 tbsp" }
+        ],
+        "description": "Roast duck until crispy, then serve with hoisin sauce, pancakes, and vegetables."
+    },
+    {
+        "id": 10,
+        "title": "Baklava",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Baklava.JPG/800px-Baklava.JPG",
+        "ingredients": [
+            { "NAME": "Phyllo dough", "AMOUNT": "1 package" },
+            { "NAME": "Walnuts", "AMOUNT": "2 cups, chopped" },
+            { "NAME": "Butter", "AMOUNT": "1 cup, melted" },
+            { "NAME": "Sugar", "AMOUNT": "1 cup" },
+            { "NAME": "Honey", "AMOUNT": "1 cup" },
+            { "NAME": "Cinnamon", "AMOUNT": "1 tsp" }
+        ],
+        "description": "Layer phyllo dough with nuts and bake, then drizzle with honey syrup."
+    },
+    {
+        "id": 11,
+        "title": "Churros",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Churros.jpg/800px-Churros.jpg",
+        "ingredients": [
+            { "NAME": "Flour", "AMOUNT": "1 cup" },
+            { "NAME": "Water", "AMOUNT": "1 cup" },
+            { "NAME": "Butter", "AMOUNT": "1/4 cup" },
+            { "NAME": "Sugar", "AMOUNT": "2 tbsp" },
+            { "NAME": "Egg", "AMOUNT": "1" },
+            { "NAME": "Cinnamon", "AMOUNT": "1 tsp" },
+            { "NAME": "Vegetable oil", "AMOUNT": "for frying" }
+        ],
+        "description": "Mix dough, pipe into hot oil, and coat with cinnamon sugar."
+    },
+    {
+        "id": 12,
+        "title": "Tiramisu",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tiramisu_%28Tiramisu%29.jpg/800px-Tiramisu_%28Tiramisu%29.jpg",
+        "ingredients": [
+            { "NAME": "Mascarpone cheese", "AMOUNT": "1 cup" },
+            { "NAME": "Heavy cream", "AMOUNT": "1 cup" },
+            { "NAME": "Egg yolks", "AMOUNT": "4" },
+            { "NAME": "Sugar", "AMOUNT": "1/2 cup" },
+            { "NAME": "Coffee", "AMOUNT": "1 cup, cooled" },
+            { "NAME": "Ladyfingers", "AMOUNT": "1 package" },
+            { "NAME": "Cocoa powder", "AMOUNT": "2 tbsp" }
+        ],
+        "description": "Layer coffee-soaked ladyfingers with mascarpone mixture and dust with cocoa powder."
+    },
+    {
+        "id": 13,
+        "title": "Falafel",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Falafel.jpg/800px-Falafel.jpg",
+        "ingredients": [
+            { "NAME": "Chickpeas", "AMOUNT": "1 cup, soaked" },
+            { "NAME": "Onion", "AMOUNT": "1, chopped" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves" },
+            { "NAME": "Parsley", "AMOUNT": "1/2 cup" },
+            { "NAME": "Cumin", "AMOUNT": "1 tsp" },
+            { "NAME": "Coriander", "AMOUNT": "1 tsp" },
+            { "NAME": "Baking powder", "AMOUNT": "1/2 tsp" },
+            { "NAME": "Salt", "AMOUNT": "to taste" },
+            { "NAME": "Vegetable oil", "AMOUNT": "for frying" }
+        ],
+        "description": "Blend chickpeas with herbs and spices, form into balls, and fry."
+    },
+    {
+        "id": 14,
+        "title": "Ratatouille",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ratatouille_%28dish%29.jpg/800px-Ratatouille_%28dish%29.jpg",
+        "ingredients": [
+            { "NAME": "Eggplant", "AMOUNT": "1, chopped" },
+            { "NAME": "Zucchini", "AMOUNT": "1, chopped" },
+            { "NAME": "Bell peppers", "AMOUNT": "2, chopped" },
+            { "NAME": "Tomatoes", "AMOUNT": "2, chopped" },
+            { "NAME": "Onion", "AMOUNT": "1, chopped" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves, minced" },
+            { "NAME": "Olive oil", "AMOUNT": "3 tbsp" },
+            { "NAME": "Herbs de Provence", "AMOUNT": "1 tsp" },
+            { "NAME": "Salt", "AMOUNT": "to taste" }
+        ],
+        "description": "Sauté vegetables with garlic and herbs until tender."
+    },
+    {
+        "id": 15,
+        "title": "Goulash",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Guly%C3%A1s.jpg/800px-Guly%C3%A1s.jpg",
+        "ingredients": [
+            { "NAME": "Beef", "AMOUNT": "500 g, cubed" },
+            { "NAME": "Onion", "AMOUNT": "2, chopped" },
+            { "NAME": "Paprika", "AMOUNT": "2 tbsp" },
+            { "NAME": "Tomato paste", "AMOUNT": "2 tbsp" },
+            { "NAME": "Potatoes", "AMOUNT": "3, diced" },
+            { "NAME": "Carrots", "AMOUNT": "2, sliced" },
+            { "NAME": "Beef broth", "AMOUNT": "4 cups" },
+            { "NAME": "Salt", "AMOUNT": "to taste" }
+        ],
+        "description": "Simmer beef with onions, paprika, and vegetables in beef broth."
+    },
+    {
+        "id": 16,
+        "title": "Shakshuka",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Shakshuka.JPG/800px-Shakshuka.JPG",
+        "ingredients": [
+            { "NAME": "Tomatoes", "AMOUNT": "4, chopped" },
+            { "NAME": "Bell peppers", "AMOUNT": "1, chopped" },
+            { "NAME": "Onion", "AMOUNT": "1, chopped" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves, minced" },
+            { "NAME": "Eggs", "AMOUNT": "4" },
+            { "NAME": "Cumin", "AMOUNT": "1 tsp" },
+            { "NAME": "Paprika", "AMOUNT": "1 tsp" },
+            { "NAME": "Salt", "AMOUNT": "to taste" },
+            { "NAME": "Olive oil", "AMOUNT": "2 tbsp" }
+        ],
+        "description": "Cook tomatoes and peppers with spices, then poach eggs in the sauce."
+    },
+    {
+        "id": 17,
+        "title": "Borscht",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Borscht_%28traditional_Russian_soup%29.jpg/800px-Borscht_%28traditional_Russian_soup%29.jpg",
+        "ingredients": [
+            { "NAME": "Beets", "AMOUNT": "3, peeled and grated" },
+            { "NAME": "Cabbage", "AMOUNT": "1 cup, shredded" },
+            { "NAME": "Carrots", "AMOUNT": "2, chopped" },
+            { "NAME": "Potatoes", "AMOUNT": "2, diced" },
+            { "NAME": "Onion", "AMOUNT": "1, chopped" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves, minced" },
+            { "NAME": "Beef broth", "AMOUNT": "4 cups" },
+            { "NAME": "Vinegar", "AMOUNT": "2 tbsp" },
+            { "NAME": "Sour cream", "AMOUNT": "for garnish" }
+        ],
+        "description": "Simmer beets and vegetables in beef broth, then garnish with sour cream."
+    },
+    {
+        "id": 18,
+        "title": "Biryani",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Biryani.jpg/800px-Biryani.jpg",
+        "ingredients": [
+            { "NAME": "Basmati rice", "AMOUNT": "2 cups" },
+            { "NAME": "Chicken", "AMOUNT": "500 g" },
+            { "NAME": "Yogurt", "AMOUNT": "1 cup" },
+            { "NAME": "Biryani spice mix", "AMOUNT": "2 tbsp" },
+            { "NAME": "Onions", "AMOUNT": "2, sliced" },
+            { "NAME": "Tomatoes", "AMOUNT": "2, chopped" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves, minced" },
+            { "NAME": "Ginger", "AMOUNT": "1 tbsp, minced" },
+            { "NAME": "Cilantro", "AMOUNT": "1/2 cup" }
+        ],
+        "description": "Cook rice with spiced chicken and yogurt, then layer and steam."
+    },
+    {
+        "id": 19,
+        "title": "Kimchi",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kimchi_%28Korean_food%29.jpg/800px-Kimchi_%28Korean_food%29.jpg",
+        "ingredients": [
+            { "NAME": "Napa cabbage", "AMOUNT": "1 head" },
+            { "NAME": "Radishes", "AMOUNT": "4, sliced" },
+            { "NAME": "Garlic", "AMOUNT": "4 cloves" },
+            { "NAME": "Ginger", "AMOUNT": "1 tbsp" },
+            { "NAME": "Korean red pepper flakes", "AMOUNT": "1/4 cup" },
+            { "NAME": "Fish sauce", "AMOUNT": "1/4 cup" },
+            { "NAME": "Green onions", "AMOUNT": "3, chopped" }
+        ],
+        "description": "Ferment cabbage and radishes with spices and seasonings."
+    },
+    {
+        "id": 20,
+        "title": "Paella",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paella_Valenciana.jpg/800px-Paella_Valenciana.jpg",
+        "ingredients": [
+            { "NAME": "Rice", "AMOUNT": "1 cup" },
+            { "NAME": "Chicken", "AMOUNT": "200 g" },
+            { "NAME": "Seafood mix", "AMOUNT": "200 g" },
+            { "NAME": "Tomatoes", "AMOUNT": "2, chopped" },
+            { "NAME": "Bell peppers", "AMOUNT": "2, chopped" },
+            { "NAME": "Green peas", "AMOUNT": "1/2 cup" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves, minced" },
+            { "NAME": "Saffron", "AMOUNT": "a pinch" },
+            { "NAME": "Olive oil", "AMOUNT": "2 tbsp" }
+        ],
+        "description": "Cook rice with chicken, seafood, vegetables, and spices in a large pan."
+    }
+]
