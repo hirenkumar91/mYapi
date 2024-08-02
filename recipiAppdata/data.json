@@ -1,4 +1,3 @@
-
 [
     {
         "id": 1,
@@ -19,19 +18,118 @@
     },
     {
         "id": 2,
-        "title": "ABC",
-        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gl%C3%B6gg_kastrull.JPG/800px-Gl%C3%B6gg_kastrull.JPG",
+        "title": "Sushi",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sushi_%28close-up%29.jpg/800px-Sushi_%28close-up%29.jpg",
         "ingredients": [
-            { "NAME": "Orange zest", "AMOUNT": "0.5" },
-            { "NAME": "Water", "AMOUNT": "200 ml" },
-            { "NAME": "Sugar", "AMOUNT": "275 g" },
-            { "NAME": "Whole cloves", "AMOUNT": "5" },
-            { "NAME": "Cinnamon sticks", "AMOUNT": "2" },
-            { "NAME": "Spice", "AMOUNT": "" },
-            { "NAME": "Bottle of red wine", "AMOUNT": "1" },
-            { "NAME": "Raisins", "AMOUNT": "100 g" },
-            { "NAME": "Slipped Almonds", "AMOUNT": "50 g" }
+            { "NAME": "Sushi rice", "AMOUNT": "2 cups" },
+            { "NAME": "Rice vinegar", "AMOUNT": "1/4 cup" },
+            { "NAME": "Sugar", "AMOUNT": "2 tbsp" },
+            { "NAME": "Salt", "AMOUNT": "1 tsp" },
+            { "NAME": "Nori sheets", "AMOUNT": "10 sheets" },
+            { "NAME": "Fresh fish (e.g., tuna, salmon)", "AMOUNT": "200 g" },
+            { "NAME": "Cucumber", "AMOUNT": "1, thinly sliced" },
+            { "NAME": "Avocado", "AMOUNT": "1, sliced" },
+            { "NAME": "Soy sauce", "AMOUNT": "to taste" }
         ],
-        "description": "Mix everything, heat it, and you are good to go!"
-    }
-]
+        "description": "Prepare sushi rice, then layer with nori, fresh fish, cucumber, and avocado. Roll and slice into pieces."
+    },
+    {
+        "id": 3,
+        "title": "Tacos",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tacos_de_asada.jpg/800px-Tacos_de_asada.jpg",
+        "ingredients": [
+            { "NAME": "Corn tortillas", "AMOUNT": "8" },
+            { "NAME": "Ground beef", "AMOUNT": "500 g" },
+            { "NAME": "Taco seasoning", "AMOUNT": "1 packet" },
+            { "NAME": "Shredded lettuce", "AMOUNT": "1 cup" },
+            { "NAME": "Diced tomatoes", "AMOUNT": "1 cup" },
+            { "NAME": "Shredded cheese", "AMOUNT": "1 cup" },
+            { "NAME": "Sour cream", "AMOUNT": "1/2 cup" },
+            { "NAME": "Salsa", "AMOUNT": "1/2 cup" }
+        ],
+        "description": "Cook ground beef with taco seasoning. Serve on tortillas with lettuce, tomatoes, cheese, sour cream, and salsa."
+    },
+    {
+        "id": 4,
+        "title": "Croissant",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Croissant.jpg/800px-Croissant.jpg",
+        "ingredients": [
+            { "NAME": "All-purpose flour", "AMOUNT": "500 g" },
+            { "NAME": "Butter", "AMOUNT": "250 g" },
+            { "NAME": "Sugar", "AMOUNT": "50 g" },
+            { "NAME": "Salt", "AMOUNT": "10 g" },
+            { "NAME": "Yeast", "AMOUNT": "15 g" },
+            { "NAME": "Milk", "AMOUNT": "250 ml" },
+            { "NAME": "Egg", "AMOUNT": "1" }
+        ],
+        "description": "Prepare dough, roll and fold with butter, then shape and bake until golden brown."
+    },
+    {
+        "id": 5,
+        "title": "Paneer Tikka",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paneer_Tikka.jpg/800px-Paneer_Tikka.jpg",
+        "ingredients": [
+            { "NAME": "Paneer", "AMOUNT": "200 g" },
+            { "NAME": "Yogurt", "AMOUNT": "1 cup" },
+            { "NAME": "Lemon juice", "AMOUNT": "2 tbsp" },
+            { "NAME": "Garam masala", "AMOUNT": "1 tsp" },
+            { "NAME": "Turmeric powder", "AMOUNT": "1/2 tsp" },
+            { "NAME": "Red chili powder", "AMOUNT": "1 tsp" },
+            { "NAME": "Cumin powder", "AMOUNT": "1/2 tsp" },
+            { "NAME": "Salt", "AMOUNT": "to taste" },
+            { "NAME": "Skewers", "AMOUNT": "as needed" }
+        ],
+        "description": "Marinate paneer in yogurt and spices, then grill or bake until charred and serve with mint chutney."
+    },
+    {
+        "id": 6,
+        "title": "Paella",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paella_Valenciana.jpg/800px-Paella_Valenciana.jpg",
+        "ingredients": [
+            { "NAME": "Rice", "AMOUNT": "1 cup" },
+            { "NAME": "Chicken", "AMOUNT": "200 g" },
+            { "NAME": "Seafood mix", "AMOUNT": "200 g" },
+            { "NAME": "Tomatoes", "AMOUNT": "2, chopped" },
+            { "NAME": "Bell peppers", "AMOUNT": "2, chopped" },
+            { "NAME": "Green peas", "AMOUNT": "1/2 cup" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves, minced" },
+            { "NAME": "Saffron", "AMOUNT": "a pinch" },
+            { "NAME": "Olive oil", "AMOUNT": "2 tbsp" }
+        ],
+        "description": "Cook rice with chicken, seafood, vegetables, and spices in a large pan."
+    },
+    {
+        "id": 7,
+        "title": "Moussaka",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moussaka_%28Balkan%29.jpg/800px-Moussaka_%28Balkan%29.jpg",
+        "ingredients": [
+            { "NAME": "Eggplant", "AMOUNT": "2, sliced" },
+            { "NAME": "Ground beef", "AMOUNT": "500 g" },
+            { "NAME": "Onion", "AMOUNT": "1, chopped" },
+            { "NAME": "Tomato paste", "AMOUNT": "2 tbsp" },
+            { "NAME": "Bechamel sauce", "AMOUNT": "2 cups" },
+            { "NAME": "Olive oil", "AMOUNT": "3 tbsp" },
+            { "NAME": "Cinnamon", "AMOUNT": "1/2 tsp" },
+            { "NAME": "Salt", "AMOUNT": "to taste" }
+        ],
+        "description": "Layer eggplant with ground beef and bechamel sauce, then bake until golden."
+    },
+    {
+        "id": 8,
+        "title": "Tom Yum Soup",
+        "picture_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tom_Yum_Kung.jpg/800px-Tom_Yum_Kung.jpg",
+        "ingredients": [
+            { "NAME": "Shrimp", "AMOUNT": "200 g" },
+            { "NAME": "Chicken stock", "AMOUNT": "4 cups" },
+            { "NAME": "Lemongrass", "AMOUNT": "2 stalks, chopped" },
+            { "NAME": "Galangal", "AMOUNT": "3 slices" },
+            { "NAME": "Kaffir lime leaves", "AMOUNT": "5 leaves" },
+            { "NAME": "Mushrooms", "AMOUNT": "1 cup, sliced" },
+            { "NAME": "Fish sauce", "AMOUNT": "2 tbsp" },
+            { "NAME": "Lime juice", "AMOUNT": "3 tbsp" },
+            { "NAME": "Chili paste", "AMOUNT": "1 tbsp" }
+        ],
+        "description": "Simmer shrimp with herbs and spices in a flavorful broth."
+    },
+    {
+        "id":
