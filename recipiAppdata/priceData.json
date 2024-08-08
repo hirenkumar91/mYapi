@@ -1,0 +1,62 @@
+[
+    {
+        "ingredient": "Orange zest",
+        "price": 3.5
+    },
+    {
+        "ingredient": "Water",
+        "price": 0.35
+    },
+    {
+        "ingredient": "Sugar",
+        "price": 24.5
+    },
+    {
+        "ingredient": "Whole cloves",
+        "price": 14
+    },
+    {
+        "ingredient": "Cinnamon sticks",
+        "price": 21
+    },
+    {
+        "ingredient": "Spice",
+        "price": 10.5
+    },
+    {
+        "ingredient": "Bottle of red wine",
+        "price": 84
+    },
+    {
+        "ingredient": "Raisins",
+        "price": 14
+    },
+    {
+        "ingredient": "Slipped Almonds",
+        "price": 28
+    },
+    {
+        "ingredient": "Sushi rice",
+        "price": 35
+    },
+    {
+        "ingredient": "Rice vinegar",
+        "price": 28
+    },
+    {
+        "ingredient": "Fresh fish (e.g., tuna, salmon)",
+        "price": 105
+    },
+    {
+        "ingredient": "Cucumber",
+        "price": 10.5
+    },
+    {
+        "ingredient": "Avocado",
+        "price": 17.5
+    },
+    {
+        "ingredient": "Soy sauce",
+        "price": 24.5
+    }
+]
