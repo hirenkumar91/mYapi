@@ -19,7 +19,7 @@
     {
         "id": 2,
         "title": "Sushi",
-        "picture_url": "https://cdn.pixabay.com/photo/2017/06/29/05/36/sushi-2455981_1280.jpg",
+        "picture_url": "https://media.istockphoto.com/id/2055438645/photo/sushi-plate.jpg?s=2048x2048&w=is&k=20&c=VCImJtuP_MDHGbZ-uoOVN35KaYmJMvXO8QF4wVhaKgA=",
         "ingredients": [
             { "NAME": "Sushi rice", "AMOUNT": "2 cups" },
             { "NAME": "Rice vinegar", "AMOUNT": "1/4 cup" },
