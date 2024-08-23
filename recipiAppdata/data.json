@@ -9,288 +9,143 @@
             { "NAME": "Sugar", "AMOUNT": "275 g" },
             { "NAME": "Whole cloves", "AMOUNT": "5" },
             { "NAME": "Cinnamon sticks", "AMOUNT": "2" },
+            { "NAME": "Spice", "AMOUNT": "" },
             { "NAME": "Bottle of red wine", "AMOUNT": "1" },
             { "NAME": "Raisins", "AMOUNT": "100 g" },
-            { "NAME": "Blanched almonds", "AMOUNT": "100 g" }
-        ]
+            { "NAME": "Slipped Almonds", "AMOUNT": "50 g" }
+        ],
+        "description": "Mix everything, heat it, and you are good to go!"
     },
     {
         "id": 2,
-        "title": "Aebleskiver",
-        "picture_url": "https://cdn.pixabay.com/photo/2020/12/20/12/47/danish-doughnut-5846634_1280.jpg",
+        "title": "Sushi",
+        "picture_url": "https://cdn.pixabay.com/photo/2017/06/29/05/36/sushi-2455981_1280.jpg",
         "ingredients": [
-            { "NAME": "All-purpose flour", "AMOUNT": "200 g" },
-            { "NAME": "Baking powder", "AMOUNT": "1 tsp" },
-            { "NAME": "Salt", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Eggs", "AMOUNT": "2" },
-            { "NAME": "Buttermilk", "AMOUNT": "250 ml" },
-            { "NAME": "Butter", "AMOUNT": "50 g" },
-            { "NAME": "Powdered sugar", "AMOUNT": "For dusting" }
-        ]
+            { "NAME": "Sushi rice", "AMOUNT": "2 cups" },
+            { "NAME": "Rice vinegar", "AMOUNT": "1/4 cup" },
+            { "NAME": "Sugar", "AMOUNT": "2 tbsp" },
+            { "NAME": "Salt", "AMOUNT": "1 tsp" },
+            { "NAME": "Nori sheets", "AMOUNT": "10 sheets" },
+            { "NAME": "Fresh fish (e.g., tuna, salmon)", "AMOUNT": "200 g" },
+            { "NAME": "Cucumber", "AMOUNT": "1, thinly sliced" },
+            { "NAME": "Avocado", "AMOUNT": "1, sliced" },
+            { "NAME": "Soy sauce", "AMOUNT": "to taste" }
+        ],
+        "description": "Prepare sushi rice, then layer with nori, fresh fish, cucumber, and avocado. Roll and slice into pieces."
     },
     {
         "id": 3,
-        "title": "Smørrebrød",
-        "picture_url": "https://cdn.pixabay.com/photo/2017/01/12/15/04/smorrebrod-1973543_1280.jpg",
+        "title": "Tacos",
+        "picture_url": "https://cdn.pixabay.com/photo/2017/07/16/10/43/tacos-2508998_1280.jpg",
         "ingredients": [
-            { "NAME": "Rye bread", "AMOUNT": "8 slices" },
-            { "NAME": "Butter", "AMOUNT": "50 g" },
-            { "NAME": "Roast beef", "AMOUNT": "200 g" },
-            { "NAME": "Horseradish", "AMOUNT": "2 tbsp" },
-            { "NAME": "Pickled red onions", "AMOUNT": "50 g" },
-            { "NAME": "Capers", "AMOUNT": "2 tbsp" },
-            { "NAME": "Fresh dill", "AMOUNT": "For garnish" }
-        ]
+            { "NAME": "Corn tortillas", "AMOUNT": "8" },
+            { "NAME": "Ground beef", "AMOUNT": "500 g" },
+            { "NAME": "Taco seasoning", "AMOUNT": "1 packet" },
+            { "NAME": "Shredded lettuce", "AMOUNT": "1 cup" },
+            { "NAME": "Diced tomatoes", "AMOUNT": "1 cup" },
+            { "NAME": "Shredded cheese", "AMOUNT": "1 cup" },
+            { "NAME": "Sour cream", "AMOUNT": "1/2 cup" },
+            { "NAME": "Salsa", "AMOUNT": "1/2 cup" }
+        ],
+        "description": "Cook ground beef with taco seasoning. Serve on tortillas with lettuce, tomatoes, cheese, sour cream, and salsa."
     },
     {
         "id": 4,
-        "title": "Frikadeller",
-        "picture_url": "https://cdn.pixabay.com/photo/2014/09/10/09/56/meatballs-440132_1280.jpg",
+        "title": "Croissant",
+        "picture_url": "https://cdn.pixabay.com/photo/2014/12/15/13/40/croissant-569075_1280.jpg",
         "ingredients": [
-            { "NAME": "Ground pork", "AMOUNT": "500 g" },
-            { "NAME": "Onion, grated", "AMOUNT": "1" },
-            { "NAME": "Egg", "AMOUNT": "1" },
-            { "NAME": "Breadcrumbs", "AMOUNT": "100 g" },
-            { "NAME": "Milk", "AMOUNT": "100 ml" },
-            { "NAME": "Salt", "AMOUNT": "1 tsp" },
-            { "NAME": "Pepper", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Butter for frying", "AMOUNT": "50 g" }
-        ]
+            { "NAME": "All-purpose flour", "AMOUNT": "500 g" },
+            { "NAME": "Butter", "AMOUNT": "250 g" },
+            { "NAME": "Sugar", "AMOUNT": "50 g" },
+            { "NAME": "Salt", "AMOUNT": "10 g" },
+            { "NAME": "Yeast", "AMOUNT": "15 g" },
+            { "NAME": "Milk", "AMOUNT": "250 ml" },
+            { "NAME": "Egg", "AMOUNT": "1" }
+        ],
+        "description": "Prepare dough, roll and fold with butter, then shape and bake until golden brown."
     },
     {
         "id": 5,
-        "title": "Biryani",
-        "picture_url": "https://cdn.pixabay.com/photo/2017/06/30/17/01/biryani-2453184_1280.jpg",
+        "title": "Paneer Tikka",
+        "picture_url": "https://cdn.pixabay.com/photo/2021/03/01/17/27/paneer-6060606_1280.jpg",
         "ingredients": [
-            { "NAME": "Basmati rice", "AMOUNT": "2 cups" },
-            { "NAME": "Chicken", "AMOUNT": "500 g" },
+            { "NAME": "Paneer", "AMOUNT": "200 g" },
             { "NAME": "Yogurt", "AMOUNT": "1 cup" },
-            { "NAME": "Onions, sliced", "AMOUNT": "2" },
-            { "NAME": "Tomatoes, chopped", "AMOUNT": "2" },
-            { "NAME": "Ginger garlic paste", "AMOUNT": "2 tbsp" },
-            { "NAME": "Biryani masala", "AMOUNT": "2 tbsp" },
-            { "NAME": "Mint leaves", "AMOUNT": "1 bunch" },
-            { "NAME": "Coriander leaves", "AMOUNT": "1 bunch" },
-            { "NAME": "Ghee", "AMOUNT": "2 tbsp" }
-        ]
+            { "NAME": "Lemon juice", "AMOUNT": "2 tbsp" },
+            { "NAME": "Garam masala", "AMOUNT": "1 tsp" },
+            { "NAME": "Turmeric powder", "AMOUNT": "1/2 tsp" },
+            { "NAME": "Red chili powder", "AMOUNT": "1 tsp" },
+            { "NAME": "Cumin powder", "AMOUNT": "1/2 tsp" },
+            { "NAME": "Salt", "AMOUNT": "to taste" },
+            { "NAME": "Skewers", "AMOUNT": "as needed" }
+        ],
+        "description": "Marinate paneer in yogurt and spices, then grill or bake until charred and serve with mint chutney."
     },
     {
         "id": 6,
-        "title": "Butter Chicken",
-        "picture_url": "https://cdn.pixabay.com/photo/2021/01/26/21/06/food-5951007_1280.jpg",
+        "title": "Paella",
+        "picture_url": "https://cdn.pixabay.com/photo/2018/07/13/12/06/paella-3533465_1280.jpg",
         "ingredients": [
-            { "NAME": "Chicken breasts, cubed", "AMOUNT": "500 g" },
-            { "NAME": "Tomato puree", "AMOUNT": "1 cup" },
-            { "NAME": "Cream", "AMOUNT": "0.5 cup" },
-            { "NAME": "Butter", "AMOUNT": "100 g" },
-            { "NAME": "Ginger garlic paste", "AMOUNT": "2 tbsp" },
-            { "NAME": "Garam masala", "AMOUNT": "1 tsp" },
-            { "NAME": "Kasuri methi", "AMOUNT": "1 tbsp" },
-            { "NAME": "Red chili powder", "AMOUNT": "1 tsp" }
-        ]
+            { "NAME": "Rice", "AMOUNT": "1 cup" },
+            { "NAME": "Chicken", "AMOUNT": "200 g" },
+            { "NAME": "Seafood mix", "AMOUNT": "200 g" },
+            { "NAME": "Tomatoes", "AMOUNT": "2, chopped" },
+            { "NAME": "Bell peppers", "AMOUNT": "2, chopped" },
+            { "NAME": "Green peas", "AMOUNT": "1/2 cup" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves, minced" },
+            { "NAME": "Saffron", "AMOUNT": "a pinch" },
+            { "NAME": "Olive oil", "AMOUNT": "2 tbsp" }
+        ],
+        "description": "Cook rice with chicken, seafood, vegetables, and spices in a large pan."
     },
     {
         "id": 7,
-        "title": "Palak Paneer",
-        "picture_url": "https://cdn.pixabay.com/photo/2020/11/20/04/27/indian-vegetarian-food-5760762_1280.jpg",
+        "title": "Moussaka",
+        "picture_url": "https://cdn.pixabay.com/photo/2019/12/08/16/02/moussaka-4680483_1280.jpg",
         "ingredients": [
-            { "NAME": "Spinach leaves", "AMOUNT": "500 g" },
-            { "NAME": "Paneer cubes", "AMOUNT": "200 g" },
-            { "NAME": "Onion, chopped", "AMOUNT": "1" },
-            { "NAME": "Tomato, chopped", "AMOUNT": "1" },
-            { "NAME": "Garlic cloves", "AMOUNT": "4" },
-            { "NAME": "Ginger", "AMOUNT": "1 inch" },
-            { "NAME": "Garam masala", "AMOUNT": "1 tsp" },
-            { "NAME": "Cream", "AMOUNT": "2 tbsp" }
-        ]
+            { "NAME": "Eggplant", "AMOUNT": "2, sliced" },
+            { "NAME": "Ground beef", "AMOUNT": "500 g" },
+            { "NAME": "Onion", "AMOUNT": "1, chopped" },
+            { "NAME": "Tomato paste", "AMOUNT": "2 tbsp" },
+            { "NAME": "Bechamel sauce", "AMOUNT": "2 cups" },
+            { "NAME": "Olive oil", "AMOUNT": "3 tbsp" },
+            { "NAME": "Cinnamon", "AMOUNT": "1/2 tsp" },
+            { "NAME": "Salt", "AMOUNT": "to taste" }
+        ],
+        "description": "Layer eggplant with ground beef and bechamel sauce, then bake until golden."
     },
     {
         "id": 8,
-        "title": "Masala Dosa",
-        "picture_url": "https://cdn.pixabay.com/photo/2020/08/25/13/55/dosa-5517304_1280.jpg",
+        "title": "Tom Yum Soup",
+        "picture_url": "https://cdn.pixabay.com/photo/2020/05/01/15/53/tom-yum-5120611_1280.jpg",
         "ingredients": [
-            { "NAME": "Dosa batter", "AMOUNT": "2 cups" },
-            { "NAME": "Potatoes, boiled and mashed", "AMOUNT": "3" },
-            { "NAME": "Onion, sliced", "AMOUNT": "1" },
-            { "NAME": "Green chilies", "AMOUNT": "2" },
-            { "NAME": "Mustard seeds", "AMOUNT": "1 tsp" },
-            { "NAME": "Curry leaves", "AMOUNT": "10" },
-            { "NAME": "Turmeric powder", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Oil", "AMOUNT": "For cooking" }
-        ]
+            { "NAME": "Shrimp", "AMOUNT": "200 g" },
+            { "NAME": "Chicken stock", "AMOUNT": "4 cups" },
+            { "NAME": "Lemongrass", "AMOUNT": "2 stalks, chopped" },
+            { "NAME": "Galangal", "AMOUNT": "3 slices" },
+            { "NAME": "Kaffir lime leaves", "AMOUNT": "5 leaves" },
+            { "NAME": "Mushrooms", "AMOUNT": "1 cup, sliced" },
+            { "NAME": "Fish sauce", "AMOUNT": "2 tbsp" },
+            { "NAME": "Lime juice", "AMOUNT": "3 tbsp" },
+            { "NAME": "Chili paste", "AMOUNT": "1 tbsp" }
+        ],
+        "description": "Simmer shrimp with herbs and spices in a flavorful broth."
     },
     {
         "id": 9,
-        "title": "Rogan Josh",
-        "picture_url": "https://cdn.pixabay.com/photo/2020/02/09/12/08/rogan-josh-4833060_1280.jpg",
+        "title": "Peking Duck",
+        "picture_url": "https://cdn.pixabay.com/photo/2018/09/28/12/03/duck-3701014_1280.jpg",
         "ingredients": [
-            { "NAME": "Lamb meat", "AMOUNT": "500 g" },
-            { "NAME": "Yogurt", "AMOUNT": "1 cup" },
-            { "NAME": "Onions, sliced", "AMOUNT": "2" },
-            { "NAME": "Garlic cloves", "AMOUNT": "4" },
-            { "NAME": "Ginger", "AMOUNT": "1 inch" },
-            { "NAME": "Kashmiri red chili powder", "AMOUNT": "2 tbsp" },
-            { "NAME": "Garam masala", "AMOUNT": "1 tsp" },
-            { "NAME": "Cumin seeds", "AMOUNT": "1 tsp" }
-        ]
-    },
-    {
-        "id": 10,
-        "title": "Tandoori Chicken",
-        "picture_url": "https://cdn.pixabay.com/photo/2020/05/13/10/24/tandoori-5164024_1280.jpg",
-        "ingredients": [
-            { "NAME": "Chicken legs", "AMOUNT": "6" },
-            { "NAME": "Yogurt", "AMOUNT": "1 cup" },
-            { "NAME": "Ginger garlic paste", "AMOUNT": "2 tbsp" },
-            { "NAME": "Red chili powder", "AMOUNT": "1 tsp" },
-            { "NAME": "Turmeric powder", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Cumin powder", "AMOUNT": "1 tsp" },
-            { "NAME": "Garam masala", "AMOUNT": "1 tsp" },
-            { "NAME": "Lemon juice", "AMOUNT": "2 tbsp" }
-        ]
-    },
-    {
-        "id": 11,
-        "title": "Cheeseburger",
-        "picture_url": "https://cdn.pixabay.com/photo/2016/03/05/22/16/american-1238246_1280.jpg",
-        "ingredients": [
-            { "NAME": "Ground beef", "AMOUNT": "500 g" },
-            { "NAME": "Salt", "AMOUNT": "1 tsp" },
-            { "NAME": "Pepper", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Cheddar cheese slices", "AMOUNT": "4" },
-            { "NAME": "Burger buns", "AMOUNT": "4" },
-            { "NAME": "Lettuce", "AMOUNT": "4 leaves" },
-            { "NAME": "Tomato, sliced", "AMOUNT": "1" },
-            { "NAME": "Onion, sliced", "AMOUNT": "1" }
-        ]
-    },
-    {
-        "id": 12,
-        "title": "Buffalo Wings",
-        "picture_url": "https://cdn.pixabay.com/photo/2020/10/08/17/45/chicken-wings-5637585_1280.jpg",
-        "ingredients": [
-            { "NAME": "Chicken wings", "AMOUNT": "1 kg" },
-            { "NAME": "Butter", "AMOUNT": "50 g" },
-            { "NAME": "Hot sauce", "AMOUNT": "0.5 cup" },
-            { "NAME": "Garlic powder", "AMOUNT": "1 tsp" },
-            { "NAME": "Salt", "AMOUNT": "1 tsp" },
-            { "NAME": "Pepper", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Vegetable oil", "AMOUNT": "For frying" }
-        ]
-    },
-    {
-        "id": 13,
-        "title": "Apple Pie",
-        "picture_url": "https://cdn.pixabay.com/photo/2018/09/26/12/55/apple-pie-3701735_1280.jpg",
-        "ingredients": [
-            { "NAME": "Apples, sliced", "AMOUNT": "6" },
-            { "NAME": "Sugar", "AMOUNT": "150 g" },
-            { "NAME": "Cinnamon", "AMOUNT": "1 tsp" },
-            { "NAME": "All-purpose flour", "AMOUNT": "250 g" },
-            { "NAME": "Butter", "AMOUNT": "150 g" },
-            { "NAME": "Salt", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Water", "AMOUNT": "3 tbsp" }
-        ]
-    },
-    {
-        "id": 14,
-        "title": "Clam Chowder",
-        "picture_url": "https://images.unsplash.com/photo-1603565812815-36a826d9a4a6",
-        "ingredients": [
-            { "NAME": "Clams", "AMOUNT": "500 g" },
-            { "NAME": "Bacon, chopped", "AMOUNT": "100 g" },
-            { "NAME": "Onion, chopped", "AMOUNT": "1" },
-            { "NAME": "Potatoes, diced", "AMOUNT": "2" },
-            { "NAME": "Milk", "AMOUNT": "2 cups" },
-            { "NAME": "Butter", "AMOUNT": "50 g" },
-            { "NAME": "All-purpose flour", "AMOUNT": "2 tbsp" },
-            { "NAME": "Salt", "AMOUNT": "1 tsp" },
-            { "NAME": "Pepper", "AMOUNT": "0.5 tsp" }
-        ]
-    },
-    {
-        "id": 15,
-        "title": "Pumpkin Pie",
-        "picture_url": "https://cdn.pixabay.com/photo/2017/11/27/00/30/pumpkin-pie-2980020_1280.jpg",
-        "ingredients": [
-            { "NAME": "Pumpkin puree", "AMOUNT": "2 cups" },
-            { "NAME": "Sugar", "AMOUNT": "150 g" },
-            { "NAME": "Cinnamon", "AMOUNT": "1 tsp" },
-            { "NAME": "Ginger", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Nutmeg", "AMOUNT": "0.25 tsp" },
-            { "NAME": "Eggs", "AMOUNT": "2" },
-            { "NAME": "Evaporated milk", "AMOUNT": "1 cup" },
-            { "NAME": "Pie crust", "AMOUNT": "1" }
-        ]
-    },
-    {
-        "id": 16,
-        "title": "Pancakes",
-        "picture_url": "https://cdn.pixabay.com/photo/2017/08/05/08/35/pancakes-2586130_1280.jpg",
-        "ingredients": [
-            { "NAME": "All-purpose flour", "AMOUNT": "200 g" },
-            { "NAME": "Baking powder", "AMOUNT": "2 tsp" },
-            { "NAME": "Salt", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Sugar", "AMOUNT": "2 tbsp" },
-            { "NAME": "Milk", "AMOUNT": "300 ml" },
-            { "NAME": "Egg", "AMOUNT": "1" },
-            { "NAME": "Butter, melted", "AMOUNT": "50 g" }
-        ]
-    },
-    {
-        "id": 17,
-        "title": "Cobb Salad",
-        "picture_url": "https://cdn.pixabay.com/photo/2018/08/06/16/42/cobb-salad-3587451_1280.jpg",
-        "ingredients": [
-            { "NAME": "Romaine lettuce", "AMOUNT": "1 head" },
-            { "NAME": "Chicken breast, cooked", "AMOUNT": "200 g" },
-            { "NAME": "Avocado, sliced", "AMOUNT": "1" },
-            { "NAME": "Bacon, cooked and crumbled", "AMOUNT": "4 slices" },
-            { "NAME": "Hard-boiled eggs, chopped", "AMOUNT": "2" },
-            { "NAME": "Cherry tomatoes, halved", "AMOUNT": "1 cup" },
-            { "NAME": "Blue cheese, crumbled", "AMOUNT": "50 g" },
-            { "NAME": "Ranch dressing", "AMOUNT": "For serving" }
-        ]
-    },
-    {
-        "id": 18,
-        "title": "Hot Dogs",
-        "picture_url": "https://cdn.pixabay.com/photo/2015/07/02/20/57/hot-dog-828201_1280.jpg",
-        "ingredients": [
-            { "NAME": "Hot dog buns", "AMOUNT": "4" },
-            { "NAME": "Hot dog sausages", "AMOUNT": "4" },
-            { "NAME": "Ketchup", "AMOUNT": "2 tbsp" },
-            { "NAME": "Mustard", "AMOUNT": "2 tbsp" },
-            { "NAME": "Onion, chopped", "AMOUNT": "1" },
-            { "NAME": "Pickle relish", "AMOUNT": "2 tbsp" }
-        ]
-    },
-    {
-        "id": 19,
-        "title": "BBQ Ribs",
-        "picture_url": "https://cdn.pixabay.com/photo/2016/06/20/16/39/barbecue-1461239_1280.jpg",
-        "ingredients": [
-            { "NAME": "Pork ribs", "AMOUNT": "1 kg" },
-            { "NAME": "BBQ sauce", "AMOUNT": "1 cup" },
-            { "NAME": "Salt", "AMOUNT": "1 tsp" },
-            { "NAME": "Pepper", "AMOUNT": "0.5 tsp" },
-            { "NAME": "Garlic powder", "AMOUNT": "1 tsp" },
-            { "NAME": "Onion powder", "AMOUNT": "1 tsp" },
-            { "NAME": "Paprika", "AMOUNT": "1 tsp" }
-        ]
-    },
-    {
-        "id": 20,
-        "title": "Macaroni and Cheese",
-        "picture_url": "https://cdn.pixabay.com/photo/2016/11/29/01/16/macaroni-and-cheese-1868275_1280.jpg",
-        "ingredients": [
-            { "NAME": "Elbow macaroni", "AMOUNT": "250 g" },
-            { "NAME": "Cheddar cheese, grated", "AMOUNT": "200 g" },
-            { "NAME": "Butter", "AMOUNT": "50 g" },
-            { "NAME": "All-purpose flour", "AMOUNT": "2 tbsp" },
-            { "NAME": "Milk", "AMOUNT": "2 cups" },
-            { "NAME": "Salt", "AMOUNT": "1 tsp" },
-            { "NAME": "Pepper", "AMOUNT": "0.5 tsp" }
-        ]
+            { "NAME": "Duck", "AMOUNT": "1 whole" },
+            { "NAME": "Soy sauce", "AMOUNT": "4 tbsp" },
+            { "NAME": "Honey", "AMOUNT": "2 tbsp" },
+            { "NAME": "Hoisin sauce", "AMOUNT": "3 tbsp" },
+            { "NAME": "Ginger", "AMOUNT": "2 inches, minced" },
+            { "NAME": "Garlic", "AMOUNT": "3 cloves, minced" },
+            { "NAME": "Green onions", "AMOUNT": "4, sliced" },
+            { "NAME": "Cucumber", "AMOUNT": "1, sliced" },
+            { "NAME": "Pancakes", "AMOUNT": "as needed" }
+        ],
+        "description": "Roast duck until crispy, then serve with hoisin sauce, green onions, cucumber, and pancakes."
     }
 ]
