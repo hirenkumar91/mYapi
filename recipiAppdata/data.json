@@ -36,7 +36,7 @@
     {
         "id": 3,
         "title": "Tacos",
-        "picture_url": "https://www.nemlig.com/scommerce/images/NEJ_Klassiske-tacos_opskrift_98000760_Santa-Maria_mexicansk.jpg?i={59A6D1C1-BBD3-4E8B-A54A-332ADC9A8FD9}&v=gOuTQtNJ&w=1105&h=621&mode=crop",
+        "picture_url": "https://media.istockphoto.com/id/613781640/photo/mexican-food-delicious-taco-shells-with-ground-beef-and.jpg?s=2048x2048&w=is&k=20&c=ckap6yWhhPUkTqQ1imEcOcxGODZWY7UAz-e2GMfCXPM=",
         "ingredients": [
             { "NAME": "Corn tortillas", "AMOUNT": "8" },
             { "NAME": "Ground beef", "AMOUNT": "500 g" },
