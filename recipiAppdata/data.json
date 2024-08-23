@@ -195,7 +195,7 @@
     {
         "id": 14,
         "title": "Clam Chowder",
-        "picture_url": "https://cdn.pixabay.com/photo/2016/02/24/01/33/chowder-1213622_1280.jpg",
+        "picture_url": "https://images.unsplash.com/photo-1603565812815-36a826d9a4a6",
         "ingredients": [
             { "NAME": "Clams", "AMOUNT": "500 g" },
             { "NAME": "Bacon, chopped", "AMOUNT": "100 g" },
