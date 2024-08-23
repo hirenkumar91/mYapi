@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Gløgg",
-        "picture_url": "https://cdn.pixabay.com/photo/2016/11/29/13/16/drink-1867432_1280.jpg",
+        "picture_url": "https://www.alt.dk/media/92c84b003c7f4ea4a6e106c31d956a69/74adb39a34d54cf7870abdbc10c11fd1.jpg?width=980&quality=80",
         "ingredients": [
             { "NAME": "Orange zest", "AMOUNT": "0.5" },
             { "NAME": "Water", "AMOUNT": "200 ml" },
@@ -36,7 +36,7 @@
     {
         "id": 3,
         "title": "Tacos",
-        "picture_url": "https://cdn.pixabay.com/photo/2017/07/16/10/43/tacos-2508998_1280.jpg",
+        "picture_url": "https://www.nemlig.com/scommerce/images/NEJ_Klassiske-tacos_opskrift_98000760_Santa-Maria_mexicansk.jpg?i={59A6D1C1-BBD3-4E8B-A54A-332ADC9A8FD9}&v=gOuTQtNJ&w=1105&h=621&mode=crop",
         "ingredients": [
             { "NAME": "Corn tortillas", "AMOUNT": "8" },
             { "NAME": "Ground beef", "AMOUNT": "500 g" },
